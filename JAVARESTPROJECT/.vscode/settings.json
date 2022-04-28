@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/vkkr125/Downloads/commons-codec-1.6.jar",
+        "/home/vkkr125/Downloads/commons-logging-1.1.1.jar",
+        "/home/vkkr125/Downloads/force-wsc-38.0.3.jar",
+        "/home/vkkr125/Downloads/httpclient-4.2.1.jar",
+        "/home/vkkr125/Downloads/httpclient-cache-4.2.1.jar",
+        "/home/vkkr125/Downloads/httpcore-4.2.1.jar",
+        "/home/vkkr125/Downloads/httpmime-4.2.1.jar",
+        "/home/vkkr125/Downloads/json-20090211.jar"
+    ]
+}

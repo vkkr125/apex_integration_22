@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/vkkr125/Downloads/enterprise.jar",
+        "/home/vkkr125/Downloads/force-wsc-38.0.3-uber.jar"
+    ]
+}
